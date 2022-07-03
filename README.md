@@ -18,4 +18,4 @@ To implement the chatbot, I will be using **Keras** (which is a Deep Learning li
 
 **Classes.pkl** — The pickle file can be used to store all the tag names to classify when we are predicting the message.
 
-**Words.pkl** — The words.pkl pickle file contains all the unique words that are the vocabulary of our model.
+***Words.pkl** — The words.pkl pickle file contains all the unique words that are the vocabulary of our model.
